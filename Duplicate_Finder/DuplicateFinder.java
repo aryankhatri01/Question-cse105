@@ -7,11 +7,11 @@ public class DuplicateFinder {
 
         ArrayList<String> guests = new ArrayList<>();
 
-        guests.add("John");
-        guests.add("Mary");
-        guests.add("John");
-        guests.add("David");
-        guests.add("Mary");
+        guests.add("Aryan");
+        guests.add("Prashant");
+        guests.add("Aryan");
+        guests.add("Prashant");
+        guests.add("Sahil");
 
         System.out.println("Duplicate Names:");
 
