@@ -11,10 +11,10 @@ public class EmployeePayroll {
                 new ArrayList<>();
 
         staff.add(
-                new FullTime("John", 5000));
+                new FullTime("Aryan", 5000));
 
         staff.add(
-                new Contractor("David",
+                new Contractor("Yubraj",
                         25, 120));
 
         try (BufferedWriter bw =
